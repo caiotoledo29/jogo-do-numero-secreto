@@ -11,7 +11,7 @@ responsiveVoice.speak(texto , 'Brazilian Portuguese Female', {rate:1.2});
 
 function exibirMensagemInicial() {
 escrevaTela('h1' , 'jogo numero secreto !! ');
-escrevaTela ('p' , 'escolha um numero entre 1 e 5');
+escrevaTela ('p' , 'escolha um numero entre 1 e 10');
 };
 exibirMensagemInicial();
 
